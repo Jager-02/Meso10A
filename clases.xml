@@ -1,0 +1,30 @@
+<clases>
+    <clase>
+        <identi>1</identi>
+        <nombre>Lenguaje</nombre>
+        <profesor>Albertina</profesor>
+        <punteo>100</punteo>
+        <creditos>4</creditos>
+    </clase>
+    <clase>
+        <identi>2</identi>
+        <nombre>Matematicas</nombre>
+        <profesor>Wendy</profesor>
+        <punteo>100</punteo>
+        <creditos>5</creditos>
+    </clase>
+    <clase>
+        <identi>3</identi>
+        <nombre>Programacion</nombre>
+        <profesor>Diego</profesor>
+        <punteo>100</punteo>
+        <creditos>3</creditos>
+    </clase>
+    <clase>
+        <identi>4</identi>
+        <nombre>Física</nombre>
+        <profesor>Carlos</profesor>
+        <punteo>100</punteo>
+        <creditos>4</creditos>
+    </clase>
+</clases>
